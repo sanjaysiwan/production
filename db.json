@@ -1,4 +1,4 @@
-[{
+{
     "navigation": [{
             "id": 1,
             "name": "Home",
@@ -118,4 +118,4 @@
             "description": "You have to define what kind of index type the object has."
         }
     ]
-}]
+}
